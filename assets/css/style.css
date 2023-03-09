@@ -11,6 +11,9 @@ body {
     font-weight: 300;
     color: #252525;
 }
+
+/* headings and logo */
+
 h1, h2 {
     font-family: oswald, sans-serif;
     text-transform: uppercase;
@@ -20,6 +23,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 20px;
 
 }
  /* navigation  links */
@@ -100,4 +104,35 @@ h1, h2 {
     right: 150px;
 
     position: absolute;
+}
+
+/* club ethos */
+
+#club-history {
+    height: 600px;
+}
+/* club ethos */
+
+#club-history {
+    height: 600px;
+}
+
+#formed-club {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+#club-record {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: silver;
+}
+
+#club-promotion {
+    width: 33%;
+    margin: 0 auto;
+    background-color: green;
 }
