@@ -85,6 +85,9 @@ ul li.active a{
   color: #000;
 }
 
+/* styling for article h3 and p */
+
+
 article{
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/IMG_broskie-1.jpeg);
     height: 100vh;
@@ -104,6 +107,17 @@ article{
    margin: 10px 30px;
    padding-bottom: 25px;
 }
+
+
+.carrer{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/falkenbergs-image.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin: 10px 0px;
+    padding: 10px;
+    color: #fff;
+  }
 
 
 
