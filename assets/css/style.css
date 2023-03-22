@@ -130,6 +130,27 @@ article{
     padding-left: 20px;
     color: #fff;
   }
+
+#featured_items{
+    margin-top: 30px;
+}
+
+
+#contact{
+    margin-top: 75px;
+}
+
+.socials{
+    margin: 10px 30px;
+    float: left;
+}
+
+.socials ul li a{
+    float: left;
+    margin: 20px;
+    padding: 10px;
+}
+
   
 
 
