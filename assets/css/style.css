@@ -27,3 +27,22 @@ ul li a:hover{
     background-color: #fff;
     color: #000;
 }
+
+
+ul li.active a{
+    background-color: #fff;
+     color: #000;
+ }
+
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1 {
+    color: #fff;
+    font-size: 70px;
+}
