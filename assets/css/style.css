@@ -151,6 +151,34 @@ article{
     padding: 10px;
 }
 
+
+footer {
+	background-color: #E7E7E7;
+	padding: 1em;
+	text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+	z-index: 3;
+}
+
+footer > span {
+	color: black;
+}
+
+footer > a {
+	color: black;
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 0.8rem;
+}
+
+footer > p {
+	color: silver;
+}
+
+
   
 
 
