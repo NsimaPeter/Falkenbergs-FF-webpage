@@ -44,3 +44,9 @@ the div classes for grids and grid1 was styled using CSS.
 and an anchor linking the user to an external page to connect the user to our social media pages
 and it was inspired by some execrcise in the challenge lessons
 
+the website is deployed on this hosting plaform Github pages through this steps
+*  in the Github repository, goto settings tab
+*  Then in the menu on the left hand side we click on "Pages"
+*  And from there you will see Github Pages where you can select your branch to deploy: Main
+*  and It'll take a few minutes to build your project, wait a bit and then refresh the page and it will have the link to the deployed project
+
