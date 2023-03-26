@@ -27,7 +27,7 @@ a Form was used also in the contact page to create a signup form and a action wa
 it was a simple form and only one Label was created in the Form for the users to provide there email address,
 a background-image was used to style the page using CSS
 ![contact page](https://user-images.githubusercontent.com/122939682/227772514-0feb694f-39b6-4ce1-9f66-89b8e0cd09e1.png)
-![contact page](https://user-images.githubusercontent.com/122939682/227772514-0feb694f-39b6-4ce1-9f66-89b8e0cd09e1.png)
+![contact](https://user-images.githubusercontent.com/122939682/227772860-1ee0b1b4-7930-43fc-ae38-4c0c9e251c76.png)
 
 
 * Gallery page: the link rel=stylesheet and an href of gallery.css, an unordered list nesting an anchor to
